@@ -1,0 +1,8 @@
+C:\Users\brici\source\repos\TipoTriangulos\TipoTriangulos\bin\Debug\TipoTriangulos.exe.config
+C:\Users\brici\source\repos\TipoTriangulos\TipoTriangulos\bin\Debug\TipoTriangulos.exe
+C:\Users\brici\source\repos\TipoTriangulos\TipoTriangulos\bin\Debug\TipoTriangulos.pdb
+C:\Users\brici\source\repos\TipoTriangulos\TipoTriangulos\obj\Debug\TipoTriangulos.csproj.AssemblyReference.cache
+C:\Users\brici\source\repos\TipoTriangulos\TipoTriangulos\obj\Debug\TipoTriangulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\brici\source\repos\TipoTriangulos\TipoTriangulos\obj\Debug\TipoTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\brici\source\repos\TipoTriangulos\TipoTriangulos\obj\Debug\TipoTriangulos.exe
+C:\Users\brici\source\repos\TipoTriangulos\TipoTriangulos\obj\Debug\TipoTriangulos.pdb
